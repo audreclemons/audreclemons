@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Azure / Cloud Security Projects</b>
+  - <a href="https://github.com/audreclemons/Azure-SOC/" style="text-decoration: none;">Creating a Live SOC / Honeynet In Azure</a>
+  
 - <b>PowerShell</b>
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
