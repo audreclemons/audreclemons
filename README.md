@@ -7,9 +7,8 @@
 - <b>AWS / Cloud Security Projects:</h2>
   - <a href="https://github.com/audreclemons/AWS-VPC-Bastion/" style="text-decoration: none;">AWS Security Configuration with Jump Box/Bastion Host</a>
   
-- <b>PowerShell</b>
-- <b>C# (.NET Desktop Applications)</b>
-- <b>Python</b>
+- <b>Python Boto3 Security</b>
+- <b>KQL Querries</b>
 
 <h2> 🤳 Connect with me:</h2>
 
