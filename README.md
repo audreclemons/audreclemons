@@ -4,6 +4,8 @@
 
 - <b>Azure / Cloud Security Projects</b>
   - <a href="https://github.com/audreclemons/Azure-SOC/" style="text-decoration: none;">Creating a Live SOC / Honeynet In Azure</a>
+- <b>AWS / Cloud Security Projects:</h2>
+  - <a href="https://github.com/audreclemons/AWS-VPC-Bastion/" style="text-decoration: none;">AWS Security Configuration with Jump Box/Bastion Host</a>
   
 - <b>PowerShell</b>
 - <b>C# (.NET Desktop Applications)</b>
