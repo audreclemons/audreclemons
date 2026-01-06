@@ -77,8 +77,15 @@
 
 <h3 align="center">🧪 Testing & QA</h3>
 <br/>
+
 <div align="center">
-<em>No testing skills selected</em>
+• Specification-based QA validation<br/>
+• In-spec / Out-of-spec logic<br/>
+• Manufacturing quality analytics<br/>
+• Data validation & anomaly detection<br/>
+• Root-cause analysis using KPIs
+</div>
+</em>
 </div>
 
 </td>
@@ -87,8 +94,12 @@
 <h3 align="center">💻 Development</h3>
 <br/>
 <div align="center">
-<em>No dev skills selected</em>
+• Serverless backend development (Node.js)<br/>
+• REST API design & data ingestion<br/>
+• Frontend form logic (HTML / JavaScript)<br/>
+• Event-driven data pipelines
 </div>
+
 
 </td>
 <td valign="top" width="33%">
