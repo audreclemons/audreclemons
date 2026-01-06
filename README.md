@@ -129,16 +129,6 @@
 
 <br/>
 
-
-
-<a href="https://github.com/audreclemons/Azure-SOC-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=Azure-SOC-&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/audreclemons/AWS-VPC-Bastion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=AWS-VPC-Bastion&theme=tokyonight&hide_border=true" />
-</a>
-
 </div>
 
 ### 📊 Top Repositories
