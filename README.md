@@ -35,7 +35,7 @@
 
 💼 **25+ years Manufacturing, QA, and Cloud Systems**
 
-🔭 Currently working on **[profile](https://github.com/audreclemons/Misc)**
+🔭 Currently working on **[Threat Hunting AI Agent](https://github.com/audreclemons/Misc)**
 
 🌱 Currently learning **Athena optimization, data contracts, SPC analytics, AI-driven quality monitoring**
 
