@@ -127,9 +127,21 @@
   
 ⭐ Flagship project: Chocolate Factory QA Post-Add Platform — end-to-end serverless QA analytics using AWS, Athena, and Power BI.
 
-<a href="https://github.com/audreclemons/chocoqa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=chocoqa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="chocoqa"/></a>
-<a href="https://github.com/audreclemons/Azure-SOC-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=Azure-SOC-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Azure-SOC-"/></a>
-<a href="https://github.com/audreclemons/AWS-VPC-Bastion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=AWS-VPC-Bastion&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AWS-VPC-Bastion"/></a>
+⭐ <b>Featured Projects</b>
+
+<br/>
+
+<a href="https://github.com/audreclemons/chocoqa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=chocoqa&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/audreclemons/Azure-SOC-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=Azure-SOC-&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/audreclemons/AWS-VPC-Bastion">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=AWS-VPC-Bastion&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
