@@ -129,9 +129,7 @@
 
 <br/>
 
-<a href="https://github.com/audreclemons/chocoqa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=chocoqa&theme=tokyonight&hide_border=true" />
-</a>
+
 
 <a href="https://github.com/audreclemons/Azure-SOC-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=Azure-SOC-&theme=tokyonight&hide_border=true" />
