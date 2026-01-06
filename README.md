@@ -55,8 +55,10 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
-
+## 🔍 What This Profile Shows
+- Real-world cloud security and QA engineering projects
+- End-to-end serverless data pipelines
+- Manufacturing-focused analytics and quality validation
 
 ---
 
@@ -126,7 +128,10 @@ specification-driven quality validation, data pipelines, and analytics-driven pr
 
 <div align="center">
   
-⭐ Flagship project: Chocolate Factory QA Post-Add Platform — end-to-end serverless QA analytics using AWS, Athena, and Power BI.
+⭐ Flagship project:  
+[Chocolate Factory QA Post-Add Platform](https://github.com/audreclemons/chocoqa)  
+End-to-end serverless QA analytics using AWS, Athena, and Power BI.
+
 
 <br/>
 
