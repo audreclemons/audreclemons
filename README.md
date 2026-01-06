@@ -127,8 +127,6 @@
   
 ⭐ Flagship project: Chocolate Factory QA Post-Add Platform — end-to-end serverless QA analytics using AWS, Athena, and Power BI.
 
-⭐ <b>Featured Projects</b>
-
 <br/>
 
 <a href="https://github.com/audreclemons/chocoqa">
