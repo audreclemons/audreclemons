@@ -120,6 +120,14 @@
 </tr>
 </table>
 
+<hr/>
+
+<h3>📌 Skills Summary</h3>
+
+<p>
+Manufacturing-focused Cloud & QA Engineer specializing in serverless AWS architectures, 
+specification-driven quality validation, data pipelines, and analytics-driven process optimization.
+</p>
 
 ---
 
@@ -148,7 +156,7 @@
 <tbody>
 <tr>
 <td><a href="https://github.com/audreclemons/chocoqa"><b>chocoqa</b></a></td>
-<td>Serverless QA & analytics platform for manufacturing (Chocolate Factory</td>
+<td>Serverless QA & analytics platform for manufacturing (Chocolate Factory)</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
