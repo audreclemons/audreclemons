@@ -13,7 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-Cloud-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/2+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
-   <img src="https://komarev.com/ghpvc/?username=audreclemons&style=for-the-badge&color=70a5fd" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=audreclemons&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -26,10 +26,6 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreclemons&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
-
-
 
 💼 **25+ years Manufacturing, QA, and Cloud Systems**
 
@@ -47,7 +43,6 @@
 
 <br clear="right"/>
 
-
 ### 🤝 Open For
 
 <p>
@@ -58,11 +53,9 @@
 
 </p>
 
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
-
 
 
 ---
