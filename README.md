@@ -45,7 +45,7 @@
 
 ⚡ Fun fact: **I build production-grade QA systems using fictitious factories to demonstrate real-world impact**
 
-📦 **5** repositories
+📦 **3** repositories
 
 <br clear="right"/>
 
@@ -127,10 +127,8 @@
   
 ⭐ Flagship project: Chocolate Factory QA Post-Add Platform — end-to-end serverless QA analytics using AWS, Athena, and Power BI.
 
-<a href="https://github.com/audreclemons/profile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=profile&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="profile"/></a>
 <a href="https://github.com/audreclemons/chocoqa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=chocoqa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="chocoqa"/></a>
 <a href="https://github.com/audreclemons/Azure-SOC-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=Azure-SOC-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Azure-SOC-"/></a>
-<a href="https://github.com/audreclemons/audreclemons"><img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=audreclemons&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="audreclemons"/></a>
 <a href="https://github.com/audreclemons/AWS-VPC-Bastion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=audreclemons&repo=AWS-VPC-Bastion&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AWS-VPC-Bastion"/></a>
 
 </div>
@@ -150,14 +148,14 @@
 <tbody>
 <tr>
 <td><a href="https://github.com/audreclemons/chocoqa"><b>chocoqa</b></a></td>
-<td>Serverless QA & analytics platform for manufacturing (Chocol...</td>
+<td>Serverless QA & analytics platform for manufacturing (Chocolate Factory</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/audreclemons/Azure-SOC-"><b>Azure-SOC-</b></a></td>
-<td>No description</td>
+<td>Cloud SOC + Honeynet in Azure</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
@@ -165,7 +163,7 @@
 
 <tr>
 <td><a href="https://github.com/audreclemons/AWS-VPC-Bastion"><b>AWS-VPC-Bastion</b></a></td>
-<td>No description</td>
+<td>Jump Box/Bastion Host</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
@@ -174,7 +172,7 @@
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>5</b> repositories</i>
+  <i>💡 Total of <b>3</b> repositories</i>
 </p>
 
 
