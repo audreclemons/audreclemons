@@ -149,34 +149,73 @@ End-to-end serverless QA analytics using AWS, Athena, and Power BI.
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://github.com/audreclemons/chocoqa"><b>chocoqa</b></a></td>
-<td>Serverless QA & analytics platform for manufacturing (Chocolate Factory)</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr><a href="https://github.com/audreclemons/Travel-Industry-Booking-Analytics-Platform"><b>Travel-Industry-Booking-Analytics-Platform</b></a></td>
-<td>Travel-Industry-Booking-Analytics-Platform</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/audreclemons/Azure-SOC-"><b>Azure-SOC-</b></a></td>
-<td>Cloud SOC + Honeynet in Azure</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
+  <tr>
+    <td>
+      <a href="https://github.com/audreclemons/chocoqa"><b>chocoqa</b></a>
+    </td>
+    <td>Serverless QA & analytics platform for manufacturing (Chocolate Factory)</td>
+    <td>
+      <img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/>
+    </td>
+  </tr>
 
-<tr>
-<td><a href="https://github.com/audreclemons/AWS-VPC-Bastion"><b>AWS-VPC-Bastion</b></a></td>
-<td>Jump Box/Bastion Host</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
+  <tr>
+    <td>
+      <a href="https://github.com/audreclemons/Travel-Industry-Booking-Analytics-Platform">
+        <b>Travel Industry Booking Analytics Platform</b>
+      </a>
+    </td>
+    <td>
+      End-to-end travel booking analytics platform with AWS lakehouse architecture and AI-powered insights
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/audreclemons/Azure-SOC-"><b>Azure-SOC</b></a>
+    </td>
+    <td>Cloud SOC lab with honeynet, detection, and incident analysis in Azure</td>
+    <td>
+      <img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/audreclemons/AWS-VPC-Bastion"><b>AWS-VPC-Bastion</b></a>
+    </td>
+    <td>Secure AWS VPC architecture with bastion host and controlled access</td>
+    <td>
+      <img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/>
+    </td>
+  </tr>
 </tbody>
 </table>
 
