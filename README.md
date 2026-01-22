@@ -156,6 +156,12 @@ End-to-end serverless QA analytics using AWS, Athena, and Power BI.
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
+<tr><a href="https://github.com/audreclemons/Travel-Industry-Booking-Analytics-Platform"><b>Travel-Industry-Booking-Analytics-Platform</b></a></td>
+<td>Travel-Industry-Booking-Analytics-Platform</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+</tr>
 <tr>
 <td><a href="https://github.com/audreclemons/Azure-SOC-"><b>Azure-SOC-</b></a></td>
 <td>Cloud SOC + Honeynet in Azure</td>
