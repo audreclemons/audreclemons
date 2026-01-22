@@ -151,7 +151,7 @@ End-to-end serverless QA analytics using AWS, Athena, and Power BI.
 <tbody>
   <tr>
     <td>
-      <a href="https://github.com/audreclemons/chocoqa"><b>chocoqa</b></a>
+      <a href="https://github.com/audreclemons/ChocoQA"><b>ChocoQA</b></a>
     </td>
     <td>Serverless QA & analytics platform for manufacturing (Chocolate Factory)</td>
     <td>
@@ -220,7 +220,7 @@ End-to-end serverless QA analytics using AWS, Athena, and Power BI.
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>3</b> repositories</i>
+  <i>💡 Total of <b>4</b> repositories</i>
 </p>
 
 
@@ -237,7 +237,7 @@ End-to-end serverless QA analytics using AWS, Athena, and Power BI.
 
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-3-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-4-green?style=for-the-badge" alt="Repos"/>
 </td>
 
 <td align="center">
